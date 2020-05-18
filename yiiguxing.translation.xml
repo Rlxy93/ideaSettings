@@ -1,0 +1,39 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="detail" />
+      <item value="放假" />
+      <item value="在家上班" />
+      <item value="出勤" />
+      <item value="statistics" />
+      <item value="统计" />
+      <item value="SUNDAY" />
+      <item value="确认收货" />
+      <item value="order" />
+      <item value="The logical operation for the permission check in case multiple roles are specified. AND is the default" />
+      <item value="A single String role name or multiple comma-delimited role names required in order for the method * invocation to be allowed." />
+      <item value="Carousel" />
+      <item value="any quote" />
+      <item value="eliminate" />
+      <item value="within" />
+      <item value="quote" />
+      <item value="appoint" />
+      <item value="Please eliminate any quote and non number within it." />
+      <item value="not provided" />
+      <item value="manager" />
+      <item value="manager Small Category" />
+      <item value="coverage" />
+      <item value="Duplicate" />
+      <item value="Status" />
+      <item value="Authorization" />
+      <item value="商家" />
+      <item value="顾客" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/context" location="$APPLICATION_HOME_DIR$/plugins/Seam/lib/seam-support.jar" />
+  </component>
+</application>
